@@ -1,4 +1,4 @@
-# ETU001979_Emmanuel_Rafidinjanahary
+# ETU001979_Emmanuel_Rafidinjanahary/Morpion(TicTacToe)-Networked-Game
 Multiplayer Tic Tac Toe Game with Socket
 Run directly the "Launcher.java" twice
   - the first to run will be the server and the second will be the client
